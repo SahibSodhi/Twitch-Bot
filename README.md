@@ -1,5 +1,7 @@
-# Code-a-Twitch-bot-using-NodeJS
-Twitch is the largest video streaming service for gamers, with 15 million users active on the site daily and 3 million broadcasters month on month.  A subsidiary of Amazon, Twitch has grown further in popularity during the pandemic and expanded its repertoire to several other avenues, including online classrooms.  In this session, we’ll show you how you can use the ubiquitous open-source Node.js platform to code your own chatbot for use in your Twitch broadcast - adding functionality to Twitch’s IRC chat interface such as auto-responders, competitions and interactive information messages for viewers as well as commands to modify the look and feel and moderate chat.  
+# Twitch Bot
+From watching people play your favorite games, to seeing awesome things built with code, to cooking up a storm in the kitchen, you can find a huge variety of content being streamed live on Twitch.tv.
 
-Pre-requisites: Basic web programming 
-                JavaScript skills 
+# Steps for creation of a Twitch bot
+1. Connecting to a Twitch stream and reading chat messages
+2. Generating an Oauth token and sending messages to a channel
+3. Handling chat commands
